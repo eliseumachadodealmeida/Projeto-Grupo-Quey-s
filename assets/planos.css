@@ -75,6 +75,7 @@ main{
     transform: translateY(30px);
     transition: 0.5s all;
 }
+<<<<<<< HEAD
 
 .card9 .info .btn{
     text-decoration:none;
@@ -85,4 +86,12 @@ main{
     font-weight: bold;
     cursor: pointer;
     transition: 0.4s ease-in-out;
+=======
+#item-1:checked ~ .cards #song-2,
+#item-2:checked ~ .cards #song-3,
+#item-3:checked ~ .cards #song-1{
+    transform: translateX(100%) scale(0.8);
+    opacity: 0.4;
+    z-index: 0;
+>>>>>>> 039ee85acb3d60bb1021193c44edc710045fb456
 }
