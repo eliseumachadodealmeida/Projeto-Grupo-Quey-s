@@ -113,4 +113,18 @@ main {
 
 	}
 }
-
+@media(min-width:1800px){
+	.principal{
+		margin: 150px;
+	}
+}
+@media(min-width:1700px){
+	.principal{
+		margin: 150px;
+	}
+}
+@media(min-width:1600px){
+	.principal{
+		margin: 150px;
+	}
+}

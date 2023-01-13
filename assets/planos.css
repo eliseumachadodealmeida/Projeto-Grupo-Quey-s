@@ -90,7 +90,7 @@ main{
 }
 @media(max-width:993px){
     .wrapper {
-        margin-top: 50%px;
+        margin-top: 50%;
         flex-direction: column;
         align-items: center;
     }
